@@ -6,6 +6,9 @@
 [3.List](#List)   
 [4.Code](#Code)   
 [5.Horizontal_line](#Horizontal-Line)
+[6.Link](#Link)
+[7.Emphasis](#Emphasis)
+[8.Image](#Image)
 
    
    
@@ -138,7 +141,25 @@ end code block.
 
 ---------------------------------------
 
+## Link
 
+## Emphasis
 
+      *single asterisks*
+      _single underscores_
+      **double asterisks**
+      __double underscores__
+      ~~cancelline~~
+   
+   
+*single asterisks*
+_single underscores_
+**double asterisks**
+__double underscores__
+~~cancelline~~
+
+## Image
+      ![Alt text](/path/to/img.jpg)
+      ![Alt text](/path/to/img.jpg "Optional title")
 
 
