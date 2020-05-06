@@ -152,11 +152,11 @@ end code block.
       ~~cancelline~~
    
    
-*single asterisks*
-_single underscores_
-**double asterisks**
-__double underscores__
-~~cancelline~~
+*single asterisks*   
+_single underscores_   
+**double asterisks**   
+__double underscores__   
+~~cancelline~~   
 
 ## Image
       ![Alt text](/path/to/img.jpg)
