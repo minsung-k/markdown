@@ -67,6 +67,8 @@ This is an H2
 
 ----------------------------
 ## List
+   
+* With number
 
         1. First
         2. Second
@@ -75,7 +77,11 @@ This is an H2
 1. First
 2. Second
 3. Third
-
+   
+   
+* Another symbol
+   
+   
         * Red
           * Green
             * Blue
