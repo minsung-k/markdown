@@ -10,20 +10,20 @@
 
 ## 1.Header
 
-* 1st
+* 1st   
         This is an H1
         =============
 
 This is an H1
 =============
 
-* 2nd
+* 2nd   
         This is an H2
         -------------
 This is an H2
 ------------
 
-* 6 head
+* 6 head   
         # This is an H1
         ## This is an H2
         ### This is an H3
