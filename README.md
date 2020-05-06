@@ -1,7 +1,7 @@
 # 마크다운 작성법 (Markdown Tutorial Korean Version)
 
 ## Table of Contents
-[1. Header](# Header)
+[1.Header](# Header)
 [2. Quotation]
 [3. List]
 [4. Code]
