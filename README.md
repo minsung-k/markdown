@@ -1,4 +1,4 @@
-# 마크다운 작성법 (Markdown Tutorial Korean Version)
+# How to write Markdown
 
 ## Table of Contents
 [1.Header](#Header)   
@@ -10,20 +10,20 @@
 
 ## 1.Header
 
-#### * 1st
+* 1st
         This is an H1
         =============
 
 This is an H1
 =============
 
-#### * 2nd
+* 2nd
         This is an H2
         -------------
 This is an H2
 ------------
 
-#### 6 head
+* 6 head
         # This is an H1
         ## This is an H2
         ### This is an H3
@@ -53,6 +53,38 @@ This is an H2
 
 
 ## 3.List
+
+        1. First
+        2. Second
+        3. Third
+        
+1. First
+2. Second
+3. Third
+
+        * 빨강
+          * 녹색
+            * 파랑
+
+        + 빨강
+          + 녹색
+            + 파랑
+
+        - 빨강
+          - 녹색
+            - 파랑
+            
+* 빨강
+  * 녹색
+    * 파랑
+
++ 빨강
+  + 녹색
+    + 파랑
+
+- 빨강
+  - 녹색
+    - 파랑
 
 ## 4.Code
 
