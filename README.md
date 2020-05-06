@@ -2,10 +2,10 @@
 
 ## Table of Contents
 [1.Header](#Header)   
-[2.Quotation](#2.Quotation)   
-[3.List](#3.List)   
-[4.Code](#4.Code)   
-[5.Horizontal_line](#5.Horizontal-Line)
+[2.Quotation](#Quotation)   
+[3.List](#List)   
+[4.Code](#Code)   
+[5.Horizontal_line](#Horizontal-Line)
 
 목차
 [1.개발을 하고 싶어요](#개발을-하고-싶어요)
