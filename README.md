@@ -162,4 +162,12 @@ __double underscores__
       ![Alt text](/path/to/img.jpg)
       ![Alt text](/path/to/img.jpg "Optional title")
 
-![Alt text](https://miro.medium.com/max/1000/1*51D0MqtqHu3h2vTE5oJ-7g.png)
+![Alt text](https://miro.medium.com/max/1000/1*51D0MqtqHu3h2vTE5oJ-7g.png "Deep Learning")
+
+
+
+      <img src="/path/to/img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+      <img src="/path/to/img.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+      
+<img src="https://miro.medium.com/max/1000/1*51D0MqtqHu3h2vTE5oJ-7g.png" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src="https://miro.medium.com/max/1000/1*51D0MqtqHu3h2vTE5oJ-7g.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
