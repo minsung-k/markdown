@@ -45,6 +45,7 @@ This is an H2
    
    
    
+---------------------------------------
 ## 2.Quotation
 * Using '>'
 
@@ -57,6 +58,7 @@ This is an H2
 >	>	> This is a third blockqute.
 
 
+----------------------------
 ## 3.List
 
         1. First
@@ -90,7 +92,8 @@ This is an H2
 - Red
   - Green
     - Blue
-
+   
+------------------------------------
 ## 4.Code
 * using tab or 4 times space
    
@@ -100,6 +103,9 @@ This is a normal paragraph:
     This is a code block.
     
 end code block.
+
+---------------------------
+
    
 
 
