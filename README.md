@@ -10,14 +10,14 @@
 
 ## 1.Header
 
-#### 1st
+#### * 1st
         This is an H1
         =============
 
 This is an H1
 =============
 
-#### 2nd
+#### * 2nd
         This is an H2
         -------------
 This is an H2
@@ -41,6 +41,7 @@ This is an H2
    
    
 ## 2.Quotation
+* Using '>'
 
         > This is a first blockqute.
         >	> This is a second blockqute.
