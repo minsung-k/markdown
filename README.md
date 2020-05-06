@@ -67,36 +67,41 @@ This is an H2
 2. Second
 3. Third
 
-        * 빨강
-          * 녹색
-            * 파랑
+        * Red
+          * Green
+            * Blue
 
-        + 빨강
-          + 녹색
-            + 파랑
+        + Red
+          + Green
+            + Blue
 
-        - 빨강
-          - 녹색
-            - 파랑
+        - Red
+          - Green
+            - Blue
             
-* 빨강
-  * 녹색
-    * 파랑
+* Red
+  * Green
+    * Blue
 
-+ 빨강
-  + 녹색
-    + 파랑
++ Red
+  + Green
+    + Blue
 
-- 빨강
-  - 녹색
-    - 파랑
+- Red
+  - Green
+    - Blue
 
 ## 4.Code
+* using tab or 4 times space
+   
+      
+This is a normal paragraph:
 
-    code 
-  asdf
-  
-    asdfsdf
+    This is a code block.
+    
+end code block.
+   
+
 
 목차
 [1.개발을 하고 싶어요](#개발을-하고-싶어요)
