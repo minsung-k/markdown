@@ -149,8 +149,14 @@ end code block.
 [Google](https://google.com)
 
 * Auto Link
+
+      * Outer Site: <https://naver.com>
+      * E-mail Link: <nim9405@gmail.com>
+
    * Outer Site <https://naver.com>
    * E-mail Link <nim9405@gmail.com>
+
+
 
 ## Emphasis
 
