@@ -143,6 +143,16 @@ end code block.
 
 ## Link
 
+      Grammar: [Title](link)
+      Example: [Google](https://google.com, "google link")   
+* Outer Link   
+[Title](link)
+[Google](https://google.com)
+
+* Auto Link
+   * Outer Site <https://naver.com>
+   * E-mail Link <nim9405@gmail.com>
+
 ## Emphasis
 
       *single asterisks*
