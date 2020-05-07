@@ -146,7 +146,6 @@ end code block.
       Grammar: [Title](link)
       Example: [Google](https://google.com, "google link")   
 * Outer Link   
-[Title](link)
 [Google](https://google.com)
 
 * Auto Link
